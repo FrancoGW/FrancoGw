@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franco Lautaro Garay</h1>
 <h3 align="center">A Professional Front-End Web Developer from Argetina</h3>
 
-- 👨‍💻 All of my projects are available at my personal portfolio [https://flgportafolio.online/](https://flgportafolio.online/)
+<h3 align="center">- 👨‍💻 Look my personal portfolio [https://flgportafolio.online/](https://flgportafolio.online/)</h3>
 
-- ⚡ Fun fact **I'm Happy 😁**
+<h3 align="center">- ⚡ Fun fact **I'm Happy 😁**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
