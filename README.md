@@ -32,32 +32,24 @@ Welcome to repository of **Franco Lautaro Garay** Founder of **SFT DEVELOPMENT**
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
+I'm a FullStack developer with over 6 years of experience. I currently live in Santo Tomé, Corrientes. While I don't have a primary stack, I excel in any type of project that comes my way. I run my own software development company with a team of five people. I work well both in a team and individually. I am also able to hold conversations in English. I'm open to Freelance collaborations but my preference is a full time position remotely.
 
 ## About SFT 🚀
 
-SFT Development es una empresa argentina dedicada a ofrecer soluciones tecnológicas y servicios de marketing digital. Nos especializamos en el desarrollo de software, desarrollo web, desarrollo de aplicaciones móviles, marketing digital, gestión de campañas en Google y Meta ADS, y diseño UX/UI.
+SFT Development is an Argentine startup dedicated to offering technological solutions and digital marketing services. We specialize in software development, web development, mobile app development, digital marketing, Google and Meta Ads campaign management, and UX/UI design.
 
-## Servicios
+## Services
 
-- **Desarrollo de Software**: Creación de soluciones a medida para satisfacer las necesidades específicas de tu negocio.
-- **Desarrollo Web**: Diseño y desarrollo de sitios web responsivos y optimizados para una experiencia de usuario superior.
-- **Desarrollo de Aplicaciones**: Desarrollo de aplicaciones móviles innovadoras y funcionales para Android e iOS.
-- **Marketing Digital**: Estrategias de marketing digital para aumentar la visibilidad y el alcance de tu marca.
-- **Google y Meta ADS**: Gestión de campañas publicitarias en Google y Meta para maximizar el retorno de inversión.
-- **Diseño UX/UI**: Diseño de interfaces de usuario intuitivas y experiencias de usuario optimizadas para todas las plataformas.
+- **Software Development**: Creation of custom solutions to meet the specific needs of your business.
+- **Web Development**: Design and development of responsive websites optimized for a superior user experience.
+- **App Development**: Development of innovative and functional mobile applications for Android and iOS.
+- **Digital Marketing**: Digital marketing strategies to increase your brand's visibility and reach.
+- **Google and Meta ADS**: Management of advertising campaigns on Google and Meta to maximize your return on investment.
+- **UX/UI Design**: Design of intuitive user interfaces and optimized user experiences for all platforms.
 
-## Contacto
+## Contact
 
-- **Sitio web**: [www.sftdevelopment.com](https://www.sftdevelopment.com)
+- **Web Site**: [www.sftdevelopment.com](https://www.sftdevelopment.com)
 - **Instagram**: [sftdevelopmentus](https://www.instagram.com/sftdevelopmentus)
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
----
-
-¡Esperamos tu colaboración!
-
----
