@@ -1,7 +1,7 @@
 
-# SFT Development
+#<h1 align="center"> Hi! I'm Franco! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-Bienvenidos al repositorio  de **Franco Lautaro Garay** Founder Of **SFT DEVELOPMENT**.
+Welcome to repository of **Franco Lautaro Garay** Founder of **SFT DEVELOPMENT**.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +32,9 @@ Bienvenidos al repositorio  de **Franco Lautaro Garay** Founder Of **SFT DEVELOP
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## Sobre Nosotros
+### 👨🏻‍💻 &nbsp;About Me
+
+## About SFT 🚀
 
 SFT Development es una empresa argentina dedicada a ofrecer soluciones tecnológicas y servicios de marketing digital. Nos especializamos en el desarrollo de software, desarrollo web, desarrollo de aplicaciones móviles, marketing digital, gestión de campañas en Google y Meta ADS, y diseño UX/UI.
 
